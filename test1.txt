@@ -1,2 +1,4 @@
 this is to test the GIT output
-validated
+validate
+
+Re-validted the file by using command line on August 26, 2020
